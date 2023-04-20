@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Autom8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="register"> <a href=""> Register here</a></string>
+    <string name="forgot_pass"> <a href=""> Forgot Password?</a></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

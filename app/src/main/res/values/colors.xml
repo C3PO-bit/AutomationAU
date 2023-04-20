@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main">#444ca0</color>
+    <color name="field_color">#f5f6f9ff</color>
+
+
+    <!--Dashboard color background item-->
+    <color name="start_dashboard">#6066A1</color>
+    <color name="end_dashboard">#111329</color>
+    <!-- background items color -->
+    <color name="start_color">#ef779b</color>
+    <color name="end_color">#fa9e89</color>
+    <color name="start_color2">#6addd0</color>
+    <color name="end_color2">#66e7c9</color>
+    <color name="grey">#f6f6f6</color>
+</resources>

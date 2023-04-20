@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/homeDashboardFragment">
+    <fragment
+        android:id="@+id/homeDashboardFragment"
+        android:name="com.mydomain.autom8.userprofile.homedashboard.HomeDashboardFragment"
+        android:label="fragment_home_dashboard"
+        tools:layout="@layout/fragment_home_dashboard" >
+        <action
+            android:id="@+id/action_homeDashboardFragment_to_formsFragment"
+            app:destination="@id/formsFragment" />
+        <action
+            android:id="@+id/action_homeDashboardFragment_to_reportCenterFragment"
+            app:destination="@id/reportCenterFragment" />
+        <action
+            android:id="@+id/action_homeDashboardFragment_to_taskCenterFragment"
+            app:destination="@id/taskCenterFragment" />
+        <action
+            android:id="@+id/action_homeDashboardFragment_to_submittedFormsFragment"
+            app:destination="@id/submittedFormsFragment" />
+        <action
+            android:id="@+id/action_homeDashboardFragment_to_assignmentsFragment"
+            app:destination="@id/assignmentsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/documentsFragment"
+        android:name="com.mydomain.autom8.userprofile.documents.DocumentsFragment"
+        android:label="fragment_documents"
+        tools:layout="@layout/fragment_documents" />
+    <fragment
+        android:id="@+id/taskCenterFragment"
+        android:name="com.mydomain.autom8.dashboard.tasks.TaskCenterFragment"
+        android:label="fragment_task_center"
+        tools:layout="@layout/fragment_task_center" >
+        <action
+            android:id="@+id/action_taskCenterFragment_to_assignmentsFragment"
+            app:destination="@id/assignmentsFragment" />
+        <action
+            android:id="@+id/action_taskCenterFragment_to_invoicesFragment"
+            app:destination="@id/invoicesFragment" />
+        <action
+            android:id="@+id/action_taskCenterFragment_to_eformFragment"
+            app:destination="@id/eformFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/submittedFormsFragment"
+        android:name="com.mydomain.autom8.dashboard.submitted.SubmittedFormsFragment"
+        android:label="fragment_submitted_forms"
+        tools:layout="@layout/fragment_submitted_forms" />
+    <fragment
+        android:id="@+id/formsFragment"
+        android:name="com.mydomain.autom8.dashboard.forms.FormsFragment"
+        android:label="fragment_forms"
+        tools:layout="@layout/fragment_forms" >
+        <action
+            android:id="@+id/action_formsFragment_to_generalFormFragment"
+            app:destination="@id/generalFormFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/reportCenterFragment"
+        android:name="com.mydomain.autom8.dashboard.report.ReportCenterFragment"
+        android:label="fragment_report_center"
+        tools:layout="@layout/fragment_report_center" />
+    <fragment
+        android:id="@+id/assignmentsFragment"
+        android:name="com.mydomain.autom8.dashboard.tasks.assignments.AssignmentsFragment"
+        android:label="fragment_assignments"
+        tools:layout="@layout/fragment_assignments" />
+    <fragment
+        android:id="@+id/invoicesFragment"
+        android:name="com.mydomain.autom8.dashboard.tasks.InvoicesFragment"
+        android:label="fragment_invoices"
+        tools:layout="@layout/fragment_invoices" />
+    <fragment
+        android:id="@+id/eformFragment"
+        android:name="com.mydomain.autom8.dashboard.tasks.EformFragment"
+        android:label="fragment_eform"
+        tools:layout="@layout/fragment_eform" />
+    <fragment
+        android:id="@+id/generalFormFragment"
+        android:name="com.mydomain.autom8.dashboard.forms.GeneralFormFragment"
+        android:label="fragment_general_form"
+        tools:layout="@layout/fragment_general_form" />
+</navigation>

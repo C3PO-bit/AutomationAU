@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/align-left-free-icon-font_24.xml" value="0.141" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/apps_24.xml" value="0.1975" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/assignments.xml" value="0.222" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/background.xml" value="0.228" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/background_item.xml" value="0.222" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/background_splash.xml" value="0.228" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/calendar_24.xml" value="0.212" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/camera_24.xml" value="0.1975" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/dashboard_items_style.xml" value="0.207" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/dashboard_style.xml" value="0.207" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/document_24.xml" value="0.1975" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/folder_24.xml" value="0.1975" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/form_24.xml" value="0.222" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/ic_documents.xml" value="0.228" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/ic_more.xml" value="0.141" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/ic_password.xml" value="0.228" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/ic_person.xml" value="0.228" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/ic_profile.xml" value="0.141" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/invoices.xml" value="0.207" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/item_task_center.xml" value="0.2215" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/item_task_center_background.xml" value="0.222" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/login_shape.xml" value="0.228" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/logo_shape.xml" value="0.228" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/menu_burger.xml" value="0.207" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/drawable/submitted_form_backgrond.xml" value="0.1975" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/activity_home.xml" value="0.22395833333333334" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/activity_inovice_images.xml" value="0.23802083333333332" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/activity_invoice.xml" value="0.264" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/activity_invoice_image.xml" value="0.35052083333333334" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/activity_splash_screen.xml" value="0.23802083333333332" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/activity_splash_screen2.xml" value="0.23802083333333332" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_approved.xml" value="0.23802083333333332" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_assignments.xml" value="0.23802083333333332" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_documents.xml" value="0.23802083333333332" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_eform.xml" value="0.23802083333333332" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_forms.xml" value="0.35052083333333334" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_general_form.xml" value="0.264" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_home.xml" value="0.23802083333333332" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_home_dashboard.xml" value="0.264" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_invoices.xml" value="0.23802083333333332" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_login.xml" value="0.22395833333333334" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_pending.xml" value="0.22395833333333334" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_reject.xml" value="0.23802083333333332" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_report_center.xml" value="0.35052083333333334" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_signup.xml" value="0.22395833333333334" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_splash_screen.xml" value="0.23802083333333332" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_submitted_forms.xml" value="0.264" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/fragment_task_center.xml" value="0.35052083333333334" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/item_approved_invoices.xml" value="0.264" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/item_dashboard.xml" value="0.536" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/item_documents.xml" value="0.2" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/item_forms.xml" value="0.23802083333333332" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/item_pending_invoices.xml" value="0.23802083333333332" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/item_task_center.xml" value="0.35052083333333334" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/item_test.xml" value="0.23802083333333332" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/register_success.xml" value="0.23802083333333332" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/layout/toolbar.xml" value="0.176" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/menu/bottom_navigation.xml" value="0.23802083333333332" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/menu/profile.xml" value="0.35052083333333334" />
+        <entry key="..\:/Autom8/1.0.0/app/src/main/res/menu/user_menu.xml" value="0.23802083333333332" />
+        <entry key="..\:/Igor/Autom8/1.0.0/app/src/main/res/layout/activity_home.xml" value="0.23802083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
